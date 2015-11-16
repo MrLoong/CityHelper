@@ -1,0 +1,24 @@
+
+/* Class = "UIButton"; normalTitle = "Forget Password"; ObjectID = "5kI-F7-exw"; */
+"5kI-F7-exw.normalTitle" = "Forget Password";
+
+/* Class = "UISearchBar"; 9Hs-uP-aiO.scopeButtonTitles[0] = "Title"; ObjectID = "9Hs-uP-aiO"; */
+"9Hs-uP-aiO.scopeButtonTitles[0]" = "Title";
+
+/* Class = "UISearchBar"; 9Hs-uP-aiO.scopeButtonTitles[1] = "Title"; ObjectID = "9Hs-uP-aiO"; */
+"9Hs-uP-aiO.scopeButtonTitles[1]" = "Title";
+
+/* Class = "UIButton"; normalTitle = "Sign up"; ObjectID = "DZT-wz-zKL"; */
+"DZT-wz-zKL.normalTitle" = "Sign up";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "GLK-mF-hTO"; */
+"GLK-mF-hTO.normalTitle" = "Sign in";
+
+/* Class = "UIButton"; normalTitle = "苑莹专用"; ObjectID = "cyz-Ah-Dj7"; */
+"cyz-Ah-Dj7.normalTitle" = "苑莹专用";
+
+/* Class = "UINavigationItem"; title = "食堂"; ObjectID = "t4K-pC-ZrI"; */
+"t4K-pC-ZrI.title" = "食堂";
+
+/* Class = "UIBarButtonItem"; title = "设置"; ObjectID = "tbC-Rt-7Xt"; */
+"tbC-Rt-7Xt.title" = "设置";
