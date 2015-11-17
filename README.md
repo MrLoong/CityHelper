@@ -5,6 +5,9 @@
 * UIT 215 LastDays
 
 
+引用了cocapods对AF进行管理
+
+
 ##遍历所有课表
 
 
