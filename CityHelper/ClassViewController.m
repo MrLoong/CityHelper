@@ -29,7 +29,7 @@
 @property int i;
 @property NSInteger num;
 @property DbHelper *dbHelper;
-
+@property UIAlertView *alert;
 @end
 
 @implementation ClassViewController
@@ -121,6 +121,9 @@ static NSString * const reuseIdentifier = @"classCell";
     
     return @[item1,item2,item3,item4,item5,item6,item7,item8,item9,item10,item11,item12,item13,item14,item15,item16,item17,item18,item19,item20];
 }
+- (IBAction)setCofing:(id)sender {
+    [self allertinitTitle:@"提示" meeeage:@"此功能暂未开放,敬请期待"];
+}
 
 
 - (void)viewDidLoad {
@@ -141,6 +144,16 @@ static NSString * const reuseIdentifier = @"classCell";
     self.weekCollection.backgroundColor = [UIColor clearColor];
     self.view.backgroundColor = [UIColor colorWithPatternImage:[UIImage imageNamed:@"classBack"]];
     [self initData];
+}
+
+-(void)allertinitTitle:(NSString *)title meeeage:(NSString *)message{
+    self.alert = [[UIAlertView alloc] initWithTitle:title
+                                            message:message
+                                           delegate:self
+                                  cancelButtonTitle:@"确定"
+                                  otherButtonTitles:nil];
+    //[WSProgressHUD dismiss];
+    [_alert show];
 }
 
 

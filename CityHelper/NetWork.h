@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "AFNetworking.h"
+#import <AFNetworking.h>
 #include "HttpProtocol.h"
 #import "HttpRequesCenter.h"
 
