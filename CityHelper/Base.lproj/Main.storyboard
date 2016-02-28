@@ -24,10 +24,10 @@
             </objects>
             <point key="canvasLocation" x="-351" y="502"/>
         </scene>
-        <!--Class View Controller-->
+        <!--View Controller-->
         <scene sceneID="x8m-eE-Ein">
             <objects>
-                <viewController storyboardIdentifier="classView" id="hI8-3F-1n5" customClass="ClassViewController" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="classView" id="hI8-3F-1n5" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="fo1-rF-Dgj"/>
                         <viewControllerLayoutGuide type="bottom" id="ghF-5M-ekn"/>
@@ -1096,15 +1096,15 @@
                                 <exclude reference="Hb3-MU-T95"/>
                                 <exclude reference="L0L-21-F20"/>
                                 <exclude reference="XuZ-ui-Hyv"/>
-                                <exclude reference="2vY-ya-Idx"/>
-                                <exclude reference="JzL-4F-ciP"/>
-                                <exclude reference="PE4-pf-jyD"/>
-                                <exclude reference="ZhN-pL-NsX"/>
                                 <exclude reference="WL2-Vp-3Q9"/>
                                 <exclude reference="Yjn-67-7KE"/>
                                 <exclude reference="gZJ-14-xjB"/>
                                 <exclude reference="ygT-bD-HT6"/>
                                 <exclude reference="b7r-hC-kb9"/>
+                                <exclude reference="2vY-ya-Idx"/>
+                                <exclude reference="JzL-4F-ciP"/>
+                                <exclude reference="PE4-pf-jyD"/>
+                                <exclude reference="ZhN-pL-NsX"/>
                             </mask>
                         </variation>
                         <variation key="widthClass=compact">
@@ -1122,15 +1122,15 @@
                                 <include reference="Hb3-MU-T95"/>
                                 <include reference="L0L-21-F20"/>
                                 <include reference="XuZ-ui-Hyv"/>
-                                <include reference="2vY-ya-Idx"/>
-                                <include reference="JzL-4F-ciP"/>
-                                <include reference="PE4-pf-jyD"/>
-                                <include reference="ZhN-pL-NsX"/>
                                 <include reference="WL2-Vp-3Q9"/>
                                 <include reference="Yjn-67-7KE"/>
                                 <include reference="gZJ-14-xjB"/>
                                 <include reference="ygT-bD-HT6"/>
                                 <include reference="b7r-hC-kb9"/>
+                                <include reference="2vY-ya-Idx"/>
+                                <include reference="JzL-4F-ciP"/>
+                                <include reference="PE4-pf-jyD"/>
+                                <include reference="ZhN-pL-NsX"/>
                             </mask>
                         </variation>
                     </view>
